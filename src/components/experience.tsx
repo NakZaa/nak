@@ -9,7 +9,7 @@ export default function Experience() {
   const education = educationSchema.parse(educationData).education
 
   return (
-    <Tabs defaultValue='work'>
+    <Tabs defaultValue='work' className='shadow-sm'>
       <TabsList className='mb-2 grid w-full grid-cols-2'>
         <TabsTrigger value='work'>Work</TabsTrigger>
         <TabsTrigger value='education'>Education</TabsTrigger>
