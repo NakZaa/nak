@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { IBM_Plex_Serif, IBM_Plex_Sans } from 'next/font/google'
+import { Analytics } from '@vercel/analytics/react'
 import './globals.css'
 import Providers from '@/components/providers'
 import Header from '@/components/header'
@@ -46,6 +47,7 @@ export default function RootLayout({
           <main className='flex-grow'>{children}</main>
           <Footer />
         </Providers>
+        <Analytics />
       </body>
     </html>
   )
