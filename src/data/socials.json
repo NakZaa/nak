@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://linkedin.com/in/nakonkate",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/NakZaa",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:nakonkate.t@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}

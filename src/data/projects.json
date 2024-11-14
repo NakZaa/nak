@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "programmin.in.th",
+      "description": "Programming Platform for Thai students to practice in various programming problems",
+      "image": "/images/projects/prog.png",
+      "href": "https://programming.in.th",
+      "tags": ["NextJS", "TailwindCSS", "Prisma"],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://programming.in.th",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Law Chula QA",
+      "description": "Question and Answer platform for Law students in Chulalongkorn University",
+      "href": "https://lawcu-sum.vercel.app",
+      "image": "/images/projects/lawsum.png",
+      "tags": ["NextJS", "TailwindCSS", "Prisma", "Uploadthing", "KY"],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/NakZaa/lawcu-sum",
+          "icon": "github"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "career": [
+    {
+      "name": "Chevron (Thailand) Exploration and Production",
+      "href": "https://thailand.chevron.com/en",
+      "title": "Summer Legal Intern",
+      "logo": "/images/career/Chevron.jpg",
+      "start": "Jun 2024",
+      "end": "Jul 2024",
+      "description": [
+        "Conducted in-depth legal research and analysis on technology and energy sector contracts, delivering insights on ongoing and future projects",
+        "Analysed technical contracts related to technology and energy sectors to ensure compliance with legal standards and organisational policies, contributing to the mitigation of potential risks",
+        "Utilised programming skills to automate repetitive tasks within the legal department, including mid-year conclusions and work reviews, using generative AI, reducing manual effort",
+        "Led and organised an intern panel discussion for Chevron Thailand and Asia-South management, successfully engaging over 100 participants"
+      ]
+    },
+    {
+      "name": "programming.in.th",
+      "href": "https://www.singaporetech.edu.sg",
+      "title": "Frontend Developer",
+      "logo": "/images/career/progIC.png",
+      "start": "2022",
+      "end": "2024",
+      "description": [
+        "Website of The Institute of the Promotion of Teaching Science and Technology (IPST)"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://programming.in.th",
+          "icon": "globe"
+        },
+        {
+          "name": "IPST",
+          "href": "https://www.ipst.ac.th/ipsten",
+          "icon": "globe"
+        }
+      ]
+    }
+  ]
+}
